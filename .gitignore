@@ -1,0 +1,6 @@
+*.jpg
+/Origin_data/
+/Wonbin_faces/
+/MNIST_data/
+/JUNI_Test_faces/
+/custom_data/
